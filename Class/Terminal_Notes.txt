@@ -1,0 +1,8 @@
+Notes on Terminal Commands
+
+To open a text file: vi [name].txt
+To update: git pull
+To clone: git clone [file]
+Start editing: i
+Stop editing: esc
+:w: save file
