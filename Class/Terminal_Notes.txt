@@ -6,3 +6,6 @@ To clone: git clone [file]
 Start editing: i
 Stop editing: esc
 :w: save file
+##: skip to line #
+list: ls
+change directory: cd
