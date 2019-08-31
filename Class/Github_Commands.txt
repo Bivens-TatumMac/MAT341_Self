@@ -1,5 +1,5 @@
 Push Commands
 
-1. git add Class
+1. git add [File or Folder name]
 2. commit -m "notes for yourself"
 3. git push
