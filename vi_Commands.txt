@@ -1,0 +1,7 @@
+Useful vi Commands
+
+i: start writing
+esc: stop writing
+:#: skip to line
+:w: save
+:q: quit
